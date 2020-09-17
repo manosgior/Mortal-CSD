@@ -1,0 +1,9 @@
+{"projectileName" : "spearProjectile", "damage" :20, "leftOffset" : -105, "rightOffset" : 20, "yOffset" : 8}
+{"projectile2Name" : "fireProjectile", "damage" : 20, "leftOffset" : 50, "rightOffset" : -10, "yOffset" : 80}
+{"HI_NEU" : ["idle", "moveForward", "moveBackwards", "rightJump", "leftJump", "flipToLeft", "flipToRight","jump",
+"frozen", "frozenOnAir", "victory", "dizzy"], 
+"LO_NEU" : ["duck", "dead"], "HI_ATK" : ["lowKick", "highKick", "lowPunch1", "lowPunch2", "highPunch1", "highPunch2", 
+"roundhouseKick", "lowToHighKick", "uppercut", "forwardFlyKick", "forwardFlyPunch", "backwardFlyPunch", 
+"stationaryFlyPunch", "stationaryFlyKick", "kneeKick", "elbowStrike", "throw", "teleportPunchAttack", "dragSpear"], "HI_DEF" : ["highBlock"], "LO_ATK" : 
+["sweepKick", "lowToHighKick"], "LO_DEF" : ["lowBlock"], "HI_HIT" : ["hitHigh", "hitLowWhenHighStatic", "hitLowWhenHigh", "stagger", "falling", "falling_big", "dizzy", "impaledMove"],
+"LO_HIT" : ["hitThrow", "tripped"], "JMP" : [ "jump", "rightJump", "leftJump", "teleportPunch" ]}

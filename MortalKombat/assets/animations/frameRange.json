@@ -1,0 +1,16 @@
+{"startFrame" : 0, "endFrame" : 7, "dx" : 0, "dy" : 0, "delay" : 100, "continuous" : false, "id" : "roundhouseKick"}
+{"startFrame" : 0, "endFrame" : 2, "dx" : 0, "dy" : 0, "delay" : 80, "continuous" : false, "id" : "highBlock"}
+{"startFrame" : 0, "endFrame" : 1, "dx" : 0, "dy" : 0, "delay" : 110, "continuous" : false, "id" : "lowBlock"}
+{"startFrame" : 0, "endFrame" : 1, "dx" : 0, "dy" : 0, "delay" : 120, "continuous" : false, "id" : "slide"}
+{"startFrame" : 0, "endFrame" : 2, "dx" : 0, "dy" : 0, "delay" : 25, "continuous" : false, "id" : "duck"}
+{"startFrame" : 0, "endFrame" : 4, "dx" : 0, "dy" : 0, "delay" : 80, "continuous" : false, "id" : "gettingUp"}
+{"startFrame" : 0, "endFrame" : 4, "dx" : 0, "dy" : 0, "delay" : 80, "continuous" : false, "id" : "uppercut"}
+{"startFrame" : 0, "endFrame" : 3, "dx" : 0, "dy" : 0, "delay" : 20, "continuous" : false, "id" : "flipToRight"}
+{"startFrame" : 1, "endFrame" : 1, "dx" : 0, "dy" : 0, "delay" : 10, "continuous" : false, "id" : "hitHighBlock"}
+{"startFrame" : 0, "endFrame" : 0, "dx" : 0, "dy" : 0, "delay" : 10, "continuous" : false, "id" : "hitLowBlock"}
+{"startFrame" : 0, "endFrame" : 0, "dx" : 0, "dy" : 0, "delay" : 2000, "continuous" : true, "id" : "dead"}
+{"startFrame" : 0, "endFrame" : 0, "dx" : 0, "dy" : 0, "delay" : 2000, "continuous" : true, "id" : "deadTripped"}
+{"startFrame" : 7, "endFrame" : 7, "dx" : 0, "dy" : 0, "delay" : 2000, "continuous" : true, "id" : "deadBurned"}
+{"startFrame" : 7, "endFrame" : 7, "dx" : 0, "dy" : 0, "delay" : 2000, "continuous" : true, "id" : "deadDecapitated"}
+{"startFrame" : 0, "endFrame" : 11, "dx" : 0, "dy" : 0, "delay" : 90, "continuous" : false, "id" : "subzero_idle"}
+{"startFrame" : 0, "endFrame" : 6, "dx" : 0, "dy" : 0, "delay" : 120, "continuous" : false, "id" : "scorpion_idle"}

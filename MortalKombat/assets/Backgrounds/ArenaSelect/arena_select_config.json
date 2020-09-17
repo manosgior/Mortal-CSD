@@ -1,0 +1,33 @@
+{
+	"Width": 400,
+	"Height": 254,
+	"FirstButtonIndex": 1,
+	"SelectionSpriteOffsetX": 3,
+	"SelectionSpriteOffsetY": 3,
+	"Rows": 
+	[
+		4, 3
+	],
+	"Sprites": 
+	[
+		[0, 0, 0, "container_empty_arena"],
+		[36, 43, 0, "noarena"],
+		[103, 43, 0, "courtyard"],
+		[238, 43, 0, "throneroom"],
+		[303, 43, 0, "noarena"],
+		[101, 124, 0, "noarena"],
+		[170, 124, 0, "noarena"],
+		[238, 124, 0, "noarena"],
+		[33, 40, 0, "selection_arena"]
+	],
+	"Options":
+	[
+		"unavailable",
+		"courtyard",
+		"throneroom",
+		"unavailable",
+		"unavailable",
+		"unavailable",
+		"unavailable"
+	]
+}

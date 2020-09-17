@@ -1,0 +1,2 @@
+{"strike" : "teleportPunchAttack", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "stagger"} ], "damage" : 40, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF"]}
+{"strike" : "dragSpear", "state" : [ {"any" : "dizzy"} ], "damage" : 0, "hittableStates" : ["HI_HIT"]}

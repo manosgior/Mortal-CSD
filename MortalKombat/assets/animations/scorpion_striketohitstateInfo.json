@@ -1,0 +1,29 @@
+{"projectileName" : "spearProjectile", "damage" : 20, "leftOffset" : -105, "rightOffset" : 20, "yOffset" : 8}
+{"HI_NEU" : ["idle", "moveForward", "moveBackwards", "rightJump", "leftJump", "flipToLeft", "flipToRight",
+"jump", "frozen", "victory"], 
+"LO_NEU" : ["duck", "dead"], "HI_ATK" : ["lowKick", "highKick", "lowPunch1", "lowPunch2", "highPunch1", "highPunch2", 
+"roundhouseKick", "lowToHighKick", "uppercut", "forwardFlyKick", "forwardFlyPunch", "backwardFlyPunch", 
+"stationaryFlyPunch", "stationaryFlyKick", "kneeKick", "elbowStrike", "throw", "teleportPunch"], "HI_DEF" : ["highBlock"], "LO_ATK" : 
+["sweepKick", "lowToHighKick"], "LO_DEF" : ["lowBlock"], "HI_HIT" : ["hitHigh", "hitLowWhenHighStatic", "hitLowWhenHigh", "stagger", "falling", "falling_big", "dizzy"],
+"LO_HIT" : ["hitThrow", "tripped"] }
+{"strike" : "highPunch1", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "hitHigh"} ], "damage" : 16, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "HI_HIT"] }
+{"strike" : "highPunch2", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "hitHigh"} ], "damage" : 6, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "HI_HIT"] }
+{"strike" : "lowPunch1", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "hitLowWhenHighStatic"} ], "damage" : 16, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_DEF", "HI_HIT"]}
+{"strike" : "lowPunch2", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "hitLowWhenHighStatic"} ], "damage" : 6, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_DEF", "HI_HIT"]}
+{"strike" : "throw", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "hitThrow"} ], "damage" : 40, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF"]}
+{"strike" : "elbowStrike", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "stagger"} ], "damage" : 20, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF"]}
+{"strike" : "uppercut", "state" : [ {"any" : "falling_big"} ], "damage" : 30, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_DEF"]}
+{"strike" : "roundhouseKick", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "stagger"} ], "damage" : 26, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_DEF"]}
+{"strike" : "highKick", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "stagger"} ], "damage" : 20, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF"]}
+{"strike" : "lowKick", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "hitLowWhenHigh"} ], "damage" : 20, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_DEF"]}
+{"strike" : "sweepKick", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "tripped"} ], "damage" : 30, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_DEF", "LO_NEU", "LO_ATK"]}
+{"strike" : "kneeKick", "state" : [ {"any" : "falling"} ], "damage" : 20, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_NEU", "LO_ATK", "LO_DEF"]}
+{"strike" : "lowToHighKick", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "hitLowWhenHigh"} ], "damage" : 20, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_NEU", "LO_ATK", "LO_DEF"]}
+{"strike" : "forwardFlyPunch", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "falling"} ], "damage" : 30, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF"]}
+{"strike" : "teleportPunch", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "stagger"} ], "damage" : 50, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF"]}
+{"strike" : "forwardFlyKick", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "falling"} ], "damage" : 30, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_ATK", "LO_DEF", "LO_NEU"]}
+{"strike" : "backwardFlyPunch", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "falling"} ], "damage" : 30, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF"]}
+{"strike" : "backwardFlyKick", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "falling"} ], "damage" : 30, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_ATK", "LO_DEF", "LO_NEU"]}
+{"strike" : "stationaryFlyKick", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "falling"} ], "damage" : 30, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_DEF"]}
+{"strike" : "stationaryFlyPunch", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "falling"} ], "damage" : 30, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_DEF"]}
+{"strike" : "scorpion_projectile", "state" : [ {"any" : "stagger"} ], "damage" : 40, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_DEF"]}

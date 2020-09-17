@@ -1,0 +1,45 @@
+{ "id":"subzero_alternativeFatality", "filepath":"assets/sprites/subzero/alternativeFatality.png", "boxes": [ [0, 24, 59, 133], [59, 0, 57, 157], [116, 14, 61, 143], [177, 32, 57, 125], [234, 20, 58, 137], [292, 20, 83, 137], [375, 35, 77, 122], [452, 47, 89, 110]  ] }
+{ "id":"subzero_burnedSkeleton", "filepath":"assets/sprites/scorpion/burnedSkeleton.png", "boxes": [ [0, 0, 57, 137], [57, 4, 51, 133], [108, 14, 50, 123], [158, 23, 53, 114], [211, 36, 53, 101], [264, 40, 53, 97], [317, 50, 54, 87], [371, 65, 62, 72]  ] }
+{ "id":"subzero_alternativeWalk", "filepath":"assets/sprites/subzero/alternativeWalk.png", "boxes": [ [0, 4, 73, 130], [73, 3, 71, 131], [144, 2, 71, 132], [215, 5, 71, 129], [286, 3, 71, 131], [357, 3, 71, 131], [428, 3, 71, 131], [499, 4, 83, 130], [582, 5, 79, 129], [661, 1, 85, 133], [746, 1, 85, 133], [831, 0, 85, 134], [916, 0, 85, 134]  ] }
+{ "id":"subzero_sweepKick", "filepath":"assets/sprites/subzero/sweepKick.png", "boxes": [ [0, 32, 87, 108], [87, 56, 77, 84], [164, 57, 83, 83], [247, 61, 132, 79], [379, 61, 135, 79], [514, 55, 83, 85], [597, 40, 104, 100], [701, 0, 87, 140]  ] }
+{ "id":"subzero_decapitated", "filepath":"assets/sprites/subzero/decapitated.png", "boxes": [ [0, 0, 67, 156], [67, 32, 136, 124], [203, 32, 136, 124], [339, 32, 136, 124], [475, 32, 136, 124], [611, 32, 136, 124], [747, 32, 136, 124], [883, 32, 136, 124]  ] }
+{ "id":"subzero_direct", "filepath":"assets/sprites/subzero/direct.png", "boxes": [ [0, 3, 72, 134], [72, 2, 98, 135], [170, 4, 114, 133], [284, 0, 74, 137], [358, 0, 92, 137], [450, 4, 115, 133], [565, 2, 90, 135], [655, 2, 117, 135], [772, 0, 117, 137]  ] }
+{ "id":"subzero_dizzy", "filepath":"assets/sprites/subzero/dizzy.png", "boxes": [ [0, 2, 67, 131], [67, 3, 67, 130], [134, 7, 69, 126], [203, 6, 77, 127], [280, 1, 75, 132], [355, 1, 71, 132], [426, 0, 71, 133]  ] }
+{ "id":"subzero_duck", "filepath":"assets/sprites/subzero/duck.png", "boxes": [ [0, 0, 70, 119], [70, 32, 70, 87], [140, 53, 69, 66]  ] }
+{ "id":"subzero_elbowStrike", "filepath":"assets/sprites/subzero/elbowStrike.png", "boxes": [ [0, 2, 72, 136], [72, 0, 75, 138], [147, 2, 87, 136]  ] }
+{ "id":"subzero_falling", "filepath":"assets/sprites/subzero/falling.png", "boxes": [ [0, 0, 126, 142], [126, 4, 120, 138], [246, 1, 85, 141], [331, 25, 68, 117], [399, 106, 138, 36]  ] }
+{ "id":"subzero_flip", "filepath":"assets/sprites/subzero/flip.png", "boxes": [ [0, 1, 70, 134], [70, 0, 71, 135], [141, 0, 71, 135], [212, 0, 73, 135]  ] }
+{ "id":"subzero_fly", "filepath":"assets/sprites/subzero/fly.png", "boxes": [ [0, 0, 62, 135], [62, 70, 71, 65], [133, 71, 74, 64], [207, 71, 66, 64], [273, 67, 63, 68], [336, 58, 61, 77], [397, 54, 66, 81], [463, 64, 76, 71]  ] }
+{ "id":"subzero_flyingKick", "filepath":"assets/sprites/subzero/flyingKick.png", "boxes": [ [0, 59, 62, 84], [62, 48, 95, 95], [157, 45, 133, 98], [290, 0, 70, 143]  ] }
+{ "id":"subzero_flyingPunch", "filepath":"assets/sprites/subzero/flyingPunch.png", "boxes": [ [0, 38, 59, 105], [59, 45, 82, 98], [141, 69, 139, 74], [280, 0, 70, 143]  ] }
+{ "id":"subzero_gettingUp", "filepath":"assets/sprites/subzero/gettingUp.png", "boxes": [ [0, 33, 71, 71], [71, 7, 75, 97], [146, 42, 76, 62], [222, 20, 95, 84], [317, 0, 92, 104]  ] }
+{ "id":"subzero_headRolling", "filepath":"assets/sprites/subzero/headRolling.png", "boxes": [ [0, 0, 17, 32], [17, 4, 22, 28], [39, 6, 21, 26], [60, 10, 28, 22], [88, 10, 26, 22], [114, 5, 22, 27], [136, 7, 22, 25], [158, 11, 25, 21], [183, 11, 26, 21]  ] }
+{ "id":"subzero_highBlock", "filepath":"assets/sprites/subzero/highBlock.png", "boxes": [ [0, 0, 70, 135], [70, 0, 60, 135], [130, 0, 61, 135]  ] }
+{ "id":"subzero_highKick", "filepath":"assets/sprites/subzero/highKick.png", "boxes": [ [0, 5, 69, 131], [69, 0, 76, 136], [145, 3, 78, 133], [223, 18, 101, 118], [324, 8, 132, 128], [456, 25, 116, 111], [572, 29, 142, 107]  ] }
+{ "id":"subzero_hitBeforeFalling", "filepath":"assets/sprites/subzero/hitBeforeFalling.png", "boxes": [ [0, 0, 90, 156], [90, 7, 80, 149], [170, 2, 81, 154]  ] }
+{ "id":"subzero_hitHigh", "filepath":"assets/sprites/subzero/hitHigh.png", "boxes": [ [0, 0, 78, 135], [78, 4, 79, 131], [157, 7, 84, 128]  ] }
+{ "id":"subzero_hitLow", "filepath":"assets/sprites/subzero/hitLow.png", "boxes": [ [0, 6, 78, 74], [78, 0, 86, 80], [164, 5, 82, 75]  ] }
+{ "id":"subzero_hitLowWhenHigh", "filepath":"assets/sprites/subzero/hitLowWhenHigh.png", "boxes": [ [0, 2, 69, 133], [69, 1, 78, 134], [147, 0, 87, 135], [234, 1, 86, 134]  ] }
+{ "id":"subzero_hitThrow", "filepath":"assets/sprites/subzero/hitThrow.png", "boxes": [ [0, 31, 86, 112], [86, 54, 78, 89], [164, 82, 92, 61], [256, 50, 86, 93], [342, 59, 103, 84], [445, 0, 139, 143]  ] }
+{ "id":"subzero_hitUnknown", "filepath":"assets/sprites/subzero/hitUnknown.png", "boxes": [ [0, 0, 63, 130], [63, 34, 63, 96]  ] }
+{ "id":"subzero_idle", "filepath":"assets/sprites/subzero/idle.png", "boxes": [ [0, 1, 64, 133], [64, 0, 64, 134], [128, 0, 64, 134], [192, 0, 64, 134], [256, 0, 64, 134], [320, 0, 65, 134], [385, 0, 67, 134], [452, 0, 65, 134], [517, 0, 64, 134], [581, 0, 64, 134], [645, 0, 64, 134], [709, 0, 64, 134]  ] }
+{ "id":"subzero_jump", "filepath":"assets/sprites/subzero/jump.png", "boxes": [ [0, 45, 66, 98], [66, 0, 70, 143], [136, 22, 63, 121]  ] }
+{ "id":"subzero_kneeKick", "filepath":"assets/sprites/subzero/kneeKick.png", "boxes": [ [0, 2, 68, 132], [68, 0, 95, 134], [163, 6, 100, 128]  ] }
+{ "id":"subzero_lowBlock", "filepath":"assets/sprites/subzero/lowBlock.png", "boxes": [ [0, 3, 62, 93], [62, 0, 62, 96]  ] }
+{ "id":"subzero_lowToHighKick", "filepath":"assets/sprites/subzero/lowToHighKick.png", "boxes": [ [0, 16, 81, 77], [81, 26, 101, 67], [182, 0, 111, 93]  ] }
+{ "id":"subzero_projectile", "filepath":"assets/sprites/subzero/projectile.png", "boxes": [ [0, 97, 9, 24], [9, 81, 20, 40], [29, 76, 61, 45], [90, 68, 81, 53], [171, 78, 92, 43], [263, 86, 134, 35], [397, 95, 78, 26], [475, 42, 72, 79], [547, 23, 51, 98], [598, 11, 19, 110], [617, 0, 22, 121]  ] }
+{ "id":"subzero_roundhouseKick", "filepath":"assets/sprites/subzero/roundhouseKick.png", "boxes": [ [0, 1, 81, 135], [81, 9, 97, 127], [178, 15, 136, 121], [314, 9, 101, 127], [415, 10, 82, 126], [497, 21, 76, 115], [573, 0, 76, 136], [649, 5, 69, 131]  ] }
+{ "id":"subzero_scorpionDragSpear", "filepath":"assets/sprites/subzero/scorpionDragSpear.png", "boxes": [ [0, 0, 142, 135], [142, 0, 142, 135], [284, 0, 142, 135], [426, 0, 142, 135], [568, 0, 142, 135], [710, 0, 142, 135], [852, 0, 142, 135]  ] }
+{ "id":"subzero_slide", "filepath":"assets/sprites/subzero/slide.png", "boxes": [ [0, 0, 88, 119], [88, 40, 125, 79]  ] }
+{ "id":"subzero_stagger", "filepath":"assets/sprites/subzero/stagger.png", "boxes": [ [0, 9, 81, 134], [81, 0, 68, 143], [149, 2, 58, 141], [207, 3, 61, 140], [268, 10, 61, 133], [329, 7, 83, 136]  ] }
+{ "id":"subzero_stanceAlternate", "filepath":"assets/sprites/subzero/stanceAlternate.png", "boxes": [ [0, 0, 76, 134], [76, 0, 76, 134], [152, 0, 76, 134], [228, 0, 76, 134], [304, 0, 76, 134], [380, 0, 76, 134], [456, 0, 76, 134], [532, 1, 66, 133], [598, 2, 74, 132], [672, 1, 66, 133], [738, 0, 65, 134], [803, 0, 68, 134], [871, 0, 72, 134]  ] }
+{ "id":"subzero_stationaryFlyKick", "filepath":"assets/sprites/subzero/stationaryFlyKick.png", "boxes": [ [0, 45, 115, 98], [115, 24, 87, 119], [202, 0, 70, 143]  ] }
+{ "id":"subzero_throw", "filepath":"assets/sprites/subzero/throw.png", "boxes": [ [0, 0, 111, 134], [111, 2, 111, 132], [222, 31, 84, 103], [306, 70, 104, 64], [410, 46, 128, 88], [538, 34, 147, 100]  ] }
+{ "id":"subzero_throwIce", "filepath":"assets/sprites/subzero/throwIce.png", "boxes": [ [0, 0, 70, 131], [70, 9, 73, 122], [143, 21, 93, 110]  ] }
+{ "id":"subzero_tripped", "filepath":"assets/sprites/subzero/tripped.png", "boxes": [ [0, 0, 100, 138], [100, 10, 99, 128], [199, 10, 94, 128], [293, 44, 94, 94], [387, 57, 102, 81], [489, 81, 97, 57]  ] }
+{ "id":"subzero_uppercut", "filepath":"assets/sprites/subzero/uppercut.png", "boxes": [ [0, 36, 72, 117], [72, 24, 80, 129], [152, 14, 114, 139], [266, 0, 67, 153], [333, 17, 83, 136]  ] }
+{ "id":"subzero_victory", "filepath":"assets/sprites/subzero/victory.png", "boxes": [ [0, 0, 70, 157], [70, 0, 70, 157], [140, 0, 70, 157], [210, 0, 70, 157]  ] }
+{ "id":"subzero_walking", "filepath":"assets/sprites/subzero/walking.png", "boxes": [ [0, 2, 74, 132], [74, 0, 74, 134], [148, 1, 72, 133], [220, 2, 75, 132], [295, 3, 74, 131], [369, 3, 74, 131], [443, 3, 73, 131], [516, 4, 86, 130], [602, 5, 83, 129]  ] }
+{ "id":"subzero_dead", "filepath":"assets/sprites/subzero/dead.png", "boxes": [ [0, 0, 138, 36]  ] }
+{ "id":"subzero_deadTripped", "filepath":"assets/sprites/subzero/deadTripped.png", "boxes": [ [0, 0, 97, 57]  ] }
+{ "id":"subzero_impaled", "filepath":"assets/sprites/subzero/falling.png", "boxes" : [ [0, 0, 126, 142] ]}

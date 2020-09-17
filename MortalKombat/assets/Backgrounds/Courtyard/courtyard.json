@@ -1,0 +1,15 @@
+{"id":"horizon_extended", "filepath":"assets/Backgrounds/Courtyard/horizon_extended.png", "boxes": [ [0, 0, 400, 157] ] }
+{"id":"columns_back", "filepath":"assets/Backgrounds/Courtyard/columns_back.png", "boxes": [ [0, 0, 262, 86] ] }
+{"id":"emperor", "filepath":"assets/Backgrounds/Courtyard/emperor.png", "boxes": [ [0, 0, 48, 57] ] }
+{"id":"roof", "filepath":"assets/Backgrounds/Courtyard/roof.png", "boxes": [ [0, 0, 382, 125] ] }
+{"id":"flag", "filepath":"assets/Backgrounds/Courtyard/flag.png", "boxes": [ [0, 0, 29, 85] ] }
+{"id":"bars", "filepath":"assets/Backgrounds/Courtyard/bars.png", "boxes": [ [0, 0, 58, 19] ] }
+{"id":"dragon", "filepath":"assets/Backgrounds/Courtyard/dragon.png", "boxes": [ [0, 0, 77, 47] ] }
+{"id":"dragon2", "filepath":"assets/Backgrounds/Courtyard/dragon2.png", "boxes": [ [0, 0, 77, 47] ] }
+{"id":"pedestal", "filepath":"assets/Backgrounds/Courtyard/pedestal.png", "boxes": [ [0, 0, 634, 61] ] }
+{"id":"crowd1", "filepath":"assets/Backgrounds/Courtyard/crowd1.png", "boxes": [ [1, 1, 88, 41], [95, 1, 88, 41], [189, 1, 88, 41], [1, 43, 88, 41], [95, 43, 88, 41], [189, 43, 88, 41] ]}
+{"id":"crowd2", "filepath":"assets/Backgrounds/Courtyard/crowd2.png", "boxes": [ [1, 1, 87, 43], [97, 1, 87, 43], [193, 1, 87, 43], [1, 49, 87, 43], [97, 49, 87, 43], [193, 49, 87, 43] ]}
+{"id":"guards", "filepath":"assets/Backgrounds/Courtyard/guards.png", "boxes": [ [0, 0, 353, 136] ]}
+{"id":"all_guards", "filepath":"assets/Backgrounds/Courtyard/all_guards.png", "boxes": [ [0, 0, 857, 195] ]}
+{"id":"guard_solo", "filepath":"assets/Backgrounds/Courtyard/guard_solo.png", "boxes": [ [0, 0, 80, 117] ]}
+{"id":"platform", "filepath":"assets/Backgrounds/Courtyard/platform.png", "boxes": [ [0, 0, 1068, 100] ] }

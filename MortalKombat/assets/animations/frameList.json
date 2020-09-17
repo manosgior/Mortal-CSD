@@ -1,0 +1,31 @@
+{ "frames" : [ 0, 6, 7 ], "dx" : 0, "dy" : 0, "delay" : 80, "continuous" : false, "id" : "highPunch1" }
+{ "frames" : [ 0, 3, 4, 8 ], "dx" : 0, "dy" : 0, "delay" : 80, "continuous" : false, "id" : "highPunch2" }
+{ "frames" : [ 0, 1, 2 ], "dx" : 0, "dy" : 0, "delay" : 80, "continuous" : false, "id" : "lowPunch1" }
+{ "frames" : [ 0, 3, 4, 5 ], "dx" : 0, "dy" : 0, "delay" : 80, "continuous" : false, "id" : "lowPunch2" }
+{ "frames" : [ 0, 1, 2, 1, 0 ], "dx" : 0, "dy" : 0, "delay" : 100, "continuous" : false, "id" : "lowPunch" }
+{ "frames" : [ 0, 1, 2, 3, 5, 4, 5, 3, 2, 1, 0 ], "dx" : 0, "dy" : 0, "delay" : 70, "continuous" : false, "id" : "highKick" }
+{ "frames" : [ 0, 1, 2, 3, 5, 6, 5, 3, 2, 1, 0 ], "dx" : 0, "dy" : 0, "delay" : 70, "continuous" : false, "id" : "lowKick" }
+{ "frames" : [ 0, 1, 2, 3, 5, 6, 0, 1, 2, 3, 4, 5, 6, 0, 1, 2, 3, 4, 5, 6], "dx" : 0, "dy" : 0, "delay" : 170, "continuous" : false, "id" : "dizzy" }
+{ "frames" : [ 0, 1, 2, 1 ], "dx" : 0, "dy" : 0, "delay" : 150, "continuous" : false, "id" : "lowToHighKick"}
+{ "frames" : [ 0, 1, 2, 1], "dx" : 0, "dy" : 0, "delay" : 60, "continuous" : false, "id" : "hitHigh"}
+{ "frames" : [ 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3], "dx" : -1, "dy" : 0, "delay" : 16, "continuous" : false, "id" : "hitLowWhenHigh"}
+{ "frames" : [ 0, 1, 2, 3, 3], "dx" : 0, "dy" : 0, "delay" : 80, "continuous" : false, "id" : "hitLowWhenHighStatic"}
+{ "frames" : [ 0, 1, 2, 1, 0], "dx" : 0, "dy" : 0, "delay" : 90, "continuous" : false, "id" : "hitLow"}
+{ "frames" : [ 0, 0, 0, 0, 0,1, 1, 1, 1, 1,2, 2, 2, 2,  2,2, 2, 2, 2,  2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5], "dx" : -1, "dy" : 0, "delay" : 6, "continuous" : false, "id" : "stagger"}
+{ "frames" : [ 0, 0, 8, 8, 7, 7, 6, 6, 5, 5, 4, 4, 3, 3, 2, 2, 1, 1, 0, 0], "dx" : -3, "dy" : 0, "delay" : 30, "continuous" : true, "id" : "walkingBack"}
+{ "frames" : [ 2, 1, 0 ], "dx" : 0, "dy" : 0, "delay" : 25, "continuous" : false, "id" : "duckToIdle"}
+{ "frames" : [ 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8 ], "dx" : 3, "dy" : 0, "delay" : 30, "continuous" : true, "id" : "walking"}
+{ "frames" : [1, 0], "dx" : 0, "dy" : 0, "delay" : 110, "continuous" : false, "id" : "lowBlockToDuck"}
+{ "frames" : [2, 1, 0], "dx" : 0, "dy" : 0, "delay" : 90, "continuous" : false, "id" : "highBlockToIdle"}
+{ "frames" : [3, 2, 1, 0], "dx" : 0, "dy" : 0, "delay" : 20, "continuous" : false, "id" : "flipToLeft"}
+{ "frames" : [0, 1, 2, 3, 4], "dx" : 0, "dy" : 0, "delay" : 65, "continuous" : false, "id" : "gettingUp"}
+{ "frames" : [0, 1, 2, 2, 2, 2, 2, 1, 0], "dx" : 0, "dy" : 0, "delay" : 80, "continuous" : false, "id" : "elbowStrike"}
+{ "frames" : [0, 1, 2, 2, 2, 2, 2, 2, 1, 0], "dx" : 0, "dy" : 0, "delay" : 80, "continuous" : false, "id" : "kneeKick"}
+{ "frames" : [0, 1, 2, 3, 4, 5, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7], "dx" : 0, "dy" : 0, "delay" : 150, "continuous" : false, "id" : "decapitated"}
+{ "frames" : [0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 4, 5, 6, 7, 7, 7, 7], "dx" : 0, "dy" : 0, "delay" : 150, "continuous" : false, "id" : "burned"}
+{ "frames" : [0, 1, 2, 3, 4, 5], "dx" : 0, "dy" : 0, "delay" : 70, "continuous" : false, "id" : "tripped"}
+{ "frames" : [ 0, 1, 2, 3, 4, 5 ], "dx" : 0, "dy" : 0, "delay" : 75, "continuous" : false, "id" : "subzero_projectile"}
+{ "frames" : [ 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], "dx" : 6, "dy" : 0, "delay" : 15, "continuous" : false, "id" : "subzero_slide"}
+{ "frames" : [ 0, 1, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3], "dx" : 0, "dy" : 0, "delay" : 150, "continuous" : false, "id" : "victory"}
+{ "frames" : [ 0, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2], "dx" : 0, "dy" : 0, "delay" : 75, "continuous" : false, "id" : "scorpion_throwSpear"}
+{ "frames" : [ 3, 3, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6], "dx" : 0, "dy" : 0, "delay" : 100, "continuous" : false, "id" : "scorpion_dragSpear"}

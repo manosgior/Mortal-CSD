@@ -1,0 +1,25 @@
+{
+	"Width": 400,
+	"Height": 254,
+	"FirstButtonIndex": 3,
+	"SelectionSpriteOffsetX": 0,
+	"SelectionSpriteOffsetY": 0,
+	"Rows": 
+	[
+		1, 1
+	],
+	"Sprites": 
+	[
+		[0, 0, 0, "menuback"],
+		[133, 10, 0, "logo"],
+		[133, 154, 0, "buttoncontainer"],
+		[138, 159, 0, "screenshotbutton"],
+		[138, 203, 0, "exitgamebutton"],
+		[138, 159, 0, "selection"]
+	],
+	"Options":
+	[
+		"Screenshot",
+		"ExitGame"
+	]
+}

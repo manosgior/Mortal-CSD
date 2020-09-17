@@ -1,0 +1,10 @@
+{"id":"container_empty", "filepath":"assets/Backgrounds/CharacterSelect/container_empty.png", "boxes": [ [0, 0, 400, 254] ] }
+{"id":"choose_your_fighter", "filepath":"assets/Backgrounds/CharacterSelect/choose_your_fighter.png", "boxes": [ [0, 0, 210, 20] ] }
+{"id":"free_play", "filepath":"assets/Backgrounds/CharacterSelect/free_play.png", "boxes": [ [0, 0, 74, 13] ] }
+{"id":"subzero", "filepath":"assets/Backgrounds/CharacterSelect/character_thumbs/subzero.png", "boxes": [ [0, 0, 59, 74] ] }
+{"id":"scorpion", "filepath":"assets/Backgrounds/CharacterSelect/character_thumbs/scorpion.png", "boxes": [ [0, 0, 59, 74] ] }
+{"id":"nofighter", "filepath":"assets/Backgrounds/CharacterSelect/character_thumbs/nofighter.png", "boxes": [ [0, 0, 59, 74] ] }
+{"id":"selection_p1", "filepath":"assets/Backgrounds/CharacterSelect/selection_p1.png", "boxes": [ [0, 0, 67, 82] ] }
+{"id":"selection_p1_confirm", "filepath":"assets/Backgrounds/CharacterSelect/selection_p1_confirm.png", "boxes": [ [0, 0, 67, 82] ] }
+{"id":"selection_p2", "filepath":"assets/Backgrounds/CharacterSelect/selection_p2.png", "boxes": [ [0, 0, 67, 82] ] }
+{"id":"selection_p2_confirm", "filepath":"assets/Backgrounds/CharacterSelect/selection_p2_confirm.png", "boxes": [ [0, 0, 67, 82] ] }

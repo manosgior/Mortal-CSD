@@ -1,0 +1,31 @@
+{
+	"Width": 1000, 
+	"Height": 400, 
+	"FighterPos": [390, 80, 546, 80],
+	"Borders": [50, 1, 50, 80],
+	"ViewBorders": [0, 0, 0, 62],
+	"Layers": 
+	[ 
+		[411, 310], 
+		[848, 310], 
+		[868, 310], 
+		[888, 310], 
+		[920, 310] 
+	], 
+	"Sprites":
+	[
+		[0, 14, 0, "horizon"], 
+		[0, 0, 1, "wall_full"], 
+		[424, 0, 1, "wall_full2"], 
+		[0, 181, 1, "carpet"], 
+		[424, 181, 1, "carpet2"], 
+		[383, 0, 1, "gong"],
+		[380, 51, 2, "emperor_headspin"],
+		[243, 131, 3, "throneroom_dragon2"], 
+		[499, 131, 3, "throneroom_dragon"], 
+		[27, 0, 4, "column"], 
+		[227, 0, 4, "column"], 
+		[645, 0, 4, "column"], 
+		[845, 0, 4, "column"]
+	] 
+}

@@ -1,0 +1,5 @@
+{"id":"container_empty_arena", "filepath":"assets/Backgrounds/ArenaSelect/container_empty.png", "boxes": [ [0, 0, 400, 254] ] }
+{"id":"courtyard", "filepath":"assets/Backgrounds/ArenaSelect/courtyard.png", "boxes": [ [0, 0, 59, 74] ] }
+{"id":"throneroom", "filepath":"assets/Backgrounds/ArenaSelect/throneroom.png", "boxes": [ [0, 0, 59, 74] ] }
+{"id":"noarena", "filepath":"assets/Backgrounds/ArenaSelect/nofighter.png", "boxes": [ [0, 0, 59, 74] ] }
+{"id":"selection_arena", "filepath":"assets/Backgrounds/ArenaSelect/selection_p1.png", "boxes": [ [0, 0, 67, 82] ] }

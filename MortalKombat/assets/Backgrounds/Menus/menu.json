@@ -1,0 +1,6 @@
+{"id":"menuback", "filepath":"assets/Backgrounds/Menus/back.png", "boxes": [ [0, 0, 400, 254] ] }
+{"id":"logo", "filepath":"assets/Backgrounds/Menus/logo.png", "boxes": [ [0, 0, 135, 136] ] }
+{"id":"buttoncontainer", "filepath":"assets/Backgrounds/Menus/container21.png", "boxes": [ [0, 0, 135, 92] ] }
+{"id":"screenshotbutton", "filepath":"assets/Backgrounds/Menus/screenshotbutton.png", "boxes": [ [0, 0, 122, 38] ] }
+{"id":"exitgamebutton", "filepath":"assets/Backgrounds/Menus/exitgamebutton.png", "boxes": [ [0, 0, 122, 38] ] }
+{"id":"selection", "filepath":"assets/Backgrounds/Menus/selection.png", "boxes": [ [0, 0, 122, 38] ] }

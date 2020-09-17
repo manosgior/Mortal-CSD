@@ -1,0 +1,38 @@
+{ "action" : "highPunch", "filepath" : "assets/sounds/cries/highPunch.wav" }
+{ "action" : "meatElbowStrike", "filepath" : "assets/sounds/hits/meatElbowStrike.wav" }
+{ "action" : "afterFall", "filepath" : "assets/sounds/hits/afterFall.wav" }
+{ "action" : "meatKick", "filepath" : "assets/sounds/hits/meatKick.wav" }
+{ "action" : "meatKneeKick", "filepath" : "assets/sounds/hits/meatKneeKick.wav" }
+{ "action" : "meatPunch", "filepath" : "assets/sounds/hits/meatPunch.wav" }
+{ "action" : "meatPunch2", "filepath" : "assets/sounds/hits/meatPunch2.wav" }
+{ "action" : "meatRoundhouseKick", "filepath" : "assets/sounds/hits/meatRoundhouseKick.wav" }
+{ "action" : "meatKick", "filepath" : "assets/sounds/hits/meatKick.wav" }
+{ "action" : "meatThrow", "filepath" : "assets/sounds/hits/meatThrow.wav" }
+{ "action" : "hitHigh", "filepath" : "assets/sounds/cries/hitHigh.wav" }
+{ "action" : "hitLow", "filepath" : "assets/sounds/cries/hitLow.wav" }
+{ "action" : "hitThrow", "filepath" : "assets/sounds/cries/hitThrow.wav" }
+{ "action" : "fallingBig", "filepath" : "assets/sounds/cries/falling_big.wav" }
+{ "action" : "hitDefault1", "filepath" : "assets/sounds/cries/hitDefault1.wav" }
+{ "action" : "hitDefault2", "filepath" : "assets/sounds/cries/hitDefault2.wav" }
+{ "action" : "finishHim", "filepath" : "assets/sounds/announcer/finishHim.wav" }
+{ "action" : "fight", "filepath" : "assets/sounds/announcer/fight.wav"}
+{ "action" : "fatality", "filepath" : "assets/sounds/announcer/fatality.wav"}
+{ "action" : "iceHit", "filepath" : "assets/sounds/projectiles/iceHit.wav"}
+{ "action" : "throwSpear", "filepath" : "assets/sounds/projectiles/throwSpear.wav"}
+{ "action" : "comeHere", "filepath" : "assets/sounds/projectiles/comeHere.wav"}
+{ "action" : "getOverHere", "filepath" : "assets/sounds/projectiles/getOverHere.wav"}
+{ "action" : "wow", "filepath" : "assets/sounds/cries/wow.wav"}
+{ "action" : "kingLaugh", "filepath" : "assets/sounds/cries/kingLaugh.wav"}
+{ "action" : "punches", "filepath" : "assets/sounds/hits/punches.wav"}
+{ "action" : "uppercut", "filepath" : "assets/sounds/hits/uppercutRoundhouse.wav"}
+{ "action" : "jump", "filepath" : "assets/sounds/cries/jump.wav"}
+{ "action" : "subzeroWins", "filepath" : "assets/sounds/announcer/subzeroWins.wav"}
+{ "action" : "scorpionWins", "filepath" : "assets/sounds/announcer/scorpionWins.wav"}
+{ "action" : "courtyard", "filepath" : "assets/sounds/music/courtyard.wav"}
+{ "action" : "throneroom", "filepath" : "assets/sounds/music/throneRoom.wav"}
+{ "action" : "fireball", "filepath" : "assets/sounds/projectiles/fireball.wav"}
+{ "action" : "burned", "filepath" : "assets/sounds/cries/burned.wav"}
+{ "action" : "dead", "filepath" : "assets/sounds/cries/dead.wav"}
+{ "action" : "menu", "filepath" : "assets/sounds/music/menu.wav"}
+{ "action" : "subzeroSelect", "filepath" : "assets/sounds/announcer/subzeroSelect.wav"}
+{ "action" : "scorpionSelect", "filepath" : "assets/sounds/announcer/scorpionSelect.wav"}

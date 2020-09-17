@@ -1,0 +1,38 @@
+{
+	"Width": 400,
+	"Height": 254,
+	"FirstButtonIndex": 3,
+	"SelectionSpriteOffsetX": 3,
+	"SelectionSpriteOffsetY": 3,
+	"Rows": 
+	[
+		4, 3
+	],
+	"Sprites": 
+	[
+		[0, 0, 0, "container_empty"],
+		[98, 11, 0, "choose_your_fighter"],
+		[165, 236, 0, "free_play"],
+		[36, 43, 0, "nofighter"],
+		[103, 43, 0, "scorpion"],
+		[238, 43, 0, "subzero"],
+		[303, 43, 0, "nofighter"],
+		[101, 124, 0, "nofighter"],
+		[170, 124, 0, "nofighter"],
+		[238, 124, 0, "nofighter"],
+		[33, 40, 1, "selection_p1_confirm"],
+		[33, 40, 1, "selection_p2_confirm"],
+		[33, 40, 0, "selection_p1"],
+		[33, 40, 0, "selection_p2"]
+	],
+	"Options":
+	[
+		"unavailable",
+		"scorpion",
+		"subzero",
+		"unavailable",
+		"unavailable",
+		"unavailable",
+		"unavailable"
+	]
+}

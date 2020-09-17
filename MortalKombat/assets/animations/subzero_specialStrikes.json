@@ -1,0 +1,1 @@
+{"strike" : "slide", "state" : [ {"jump" : "falling"}, {"rightJump" : "falling"}, {"leftJump" : "falling"}, {"any" : "falling"}, {"frozenOnAir" : "falling"}  ], "damage" : 50, "hittableStates" : ["HI_ATK", "HI_NEU", "HI_DEF", "LO_DEF", "JMP", "HI_HIT", "LO_HIT"]}

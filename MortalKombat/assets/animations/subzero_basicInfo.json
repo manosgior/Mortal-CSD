@@ -1,0 +1,9 @@
+{"projectileName" : "iceProjectile", "damage" : 0, "leftOffset" : 90, "rightOffset" : 30, "yOffset" : 40}
+{"projectile2Name" : "iceProjectile", "damage" : 0, "leftOffset" : 90, "rightOffset" : 30, "yOffset" : 40}
+{"HI_NEU" : ["idle", "moveForward", "moveBackwards", "flipToLeft", "flipToRight",
+"frozen", "frozenOnAir", "victory", "dizzy"], 
+"LO_NEU" : ["duck", "dead"], "HI_ATK" : ["lowKick", "highKick", "lowPunch1", "lowPunch2", "highPunch1", "highPunch2", 
+"roundhouseKick", "lowToHighKick", "uppercut", "forwardFlyKick", "forwardFlyPunch", "backwardFlyPunch", 
+"stationaryFlyPunch", "stationaryFlyKick", "kneeKick", "elbowStrike", "throw"], "HI_DEF" : ["highBlock"], "LO_ATK" : 
+["sweepKick", "lowToHighKick", "slide"], "LO_DEF" : ["lowBlock"], "HI_HIT" : ["hitHigh", "hitLowWhenHighStatic", "hitLowWhenHigh", "stagger", "falling", "falling_big", "dizzy", "impaledMove"],
+"LO_HIT" : ["hitThrow", "tripped"], "JMP" : [ "rightJump", "leftJump", "jump" ] }

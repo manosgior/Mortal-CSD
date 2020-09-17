@@ -1,0 +1,17 @@
+{
+  "Width": 400,
+  "Height": 254,
+  "FirstButtonIndex": 0,
+  "SelectionSpriteOffsetX": 0,
+  "SelectionSpriteOffsetY": 0,
+  "InitialSelect": [0],
+  "Rows": [
+    1
+  ],
+  "Sprites": [
+    [ 0, 0, 0, "pretitle" ]
+  ],
+  "Options": [
+    "titlescreen"
+  ]
+}
