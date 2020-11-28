@@ -1,4 +1,6 @@
 # Mortal-CSD
-Recreated the original Mortal Kombat game from scratch, in C++. 
-The purpose was the CS-454 course's main project (Development of intelligent interfaces and games: https://www.csd.uoc.gr/~hy454/). 
-Originally there were 2 more collaborators in a private repository but i made this public copy for CV purposes (thus the work shown here is roughly 1/3 mine). 
+A version of the game "Mortal Kombat" coded in C++ using the Allegro graphics library (featuring characters Subzero and Scorpion).
+The game was created as the main project of the course CS-454 (Development of intelligent interfaces and games: https://www.csd.uoc.gr/~hy454/). 
+
+The team consisted of three members (Emmanouil Giortamis https://github.com/manosgior, Georgios Lydakis https://github.com/geomlyd and Anastasios Livanidis https://github.com/AlivasGR) and the work was more or less equally distributed. This repo is a public read-only copy of the original, created for showcasing
+examples of our work for CV purposes.
